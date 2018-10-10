@@ -1,0 +1,21 @@
+{
+  "name": "servico-malha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mapshaper": "^0.4.96",
+    "postman-request": "^2.88.1-postman.1",
+    "remove-accents-diacritics": "^1.0.2"
+  },
+  "devDependencies": {
+    "npm": "^6.4.1",
+    "ts-node": "^7.0.1"
+  }
+}
